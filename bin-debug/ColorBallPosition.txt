@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<POSITION>
+<colorball>
+	<whiteball color="White">
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</whiteball>
+	<yellowball color="Yellow">
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</yellowball>
+	<greenball color="Green">
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</greenball>
+	<blueball color="Blue">
+		<positionX>0</positionX>			
+		<positionY>0</positionY>
+	</blueball>
+	<brownball color="Brown">
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</brownball>
+	<pinkball color="Pink">
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</pinkball>
+	<blackball color="Black">
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</blackball>
+</colorball>
+
+<redball>
+	<ball_1>
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</ball_1>
+	<ball_2>
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</ball_2>	
+	<ball_3>
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</ball_3>	
+	<ball_4>
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</ball_4>	
+	<ball_5>
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</ball_5>	
+	<ball_6>
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</ball_6>	
+	<ball_7>
+		<positionX>0</positionX>
+		<positionY>0</positionY>
+	</ball_7>
+</redball>
+
+</POSITION>

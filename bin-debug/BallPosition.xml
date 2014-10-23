@@ -1,0 +1,123 @@
+<position>
+
+	<whiteball color="White">
+		<positionX></positionX>
+		<positionY></positionY>
+	</wjiteball>
+
+	<redball color="Red">
+
+		<index num=1>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=2>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=3>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=4>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=5>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=6>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=7>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=8>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=9>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=10>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=11>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=12>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=13>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=14>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+		<index num=15>
+			<positionX></positionX>
+			<positionY></positionY>
+		</index>
+
+
+
+	</redball>
+
+	<colorball color="Colorful">
+
+		<yellowball color="Yellow">
+			<positionX></positionX>
+			<positionY></positionY>
+		</yellowball>
+
+		<greenball color="Green">
+			<positionX></positionX>
+			<positionY></positionY>
+		</greenball>
+
+		<blueball color="Blue">
+			<positionX></positionX>								
+			<positionY></positionY>
+		</blueball>
+
+		<brownball color="Brown">
+			<positionX></positionX>
+			<positionY></positionY>
+		</brownball>
+
+		<pinkball color="Pink">
+			<positionX></positionX>
+			<positionY></positionY>
+		</pinkball>
+
+		<blackball color="Black">
+			<positionX></positionX>
+			<positionY></positionY>
+		</blackball>
+
+	<colorball>
+
+</position>

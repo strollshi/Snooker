@@ -1,0 +1,34 @@
+<images>
+	<image url="http://imgsrc.baidu.com/forum/pic/item/82f1fe1f4134970a88abf46995cad1c8a6865dba.jpg">
+		<WIDTH>630</WIDTH>
+		<HEIGHT>500</HEIGHT>
+	</image>
+	<image url="http://imgsrc.baidu.com/forum/pic/item/d7d8ac51f3deb48f19b14598f01f3a292cf578ba.jpg">
+		<WIDTH>630</WIDTH>
+		<HEIGHT>500</HEIGHT>
+	</image>
+	<image url="http://imgsrc.baidu.com/forum/pic/item/37b7097b02087bf42c3fb3aff2d3572c10dfcf43.jpg">
+		<WIDTH>630</WIDTH>
+		<HEIGHT>500</HEIGHT>
+	</image>
+	<image url="http://imgsrc.baidu.com/forum/pic/item/61d9f8edab64034f801d2640afc379310b551d42.jpg">
+		<WIDTH>630</WIDTH>
+		<HEIGHT>500</HEIGHT>
+	</image>
+	<image url="http://imgsrc.baidu.com/forum/pic/item/b51ffbdcd100baa10afca3fd4710b912c9fc2e42.jpg">
+		<WIDTH>630</WIDTH>
+		<HEIGHT>500</HEIGHT>
+	</image>
+	<image url="http://imgsrc.baidu.com/forum/pic/item/fb2bb0de9c82d1586752bdf7800a19d8bd3e4242.jpg">
+		<WIDTH>630</WIDTH>
+		<HEIGHT>500</HEIGHT>
+	</image>
+	<image url="http://imgsrc.baidu.com/forum/pic/item/bd09d70735fae6cd9d6d4f270fb30f2443a70fb9.jpg">
+		<WIDTH>630</WIDTH>
+		<HEIGHT>500</HEIGHT>
+	</image>
+	<image url="http://imgsrc.baidu.com/forum/pic/item/9895d3a20cf431adbe02a77f4b36acaf2fdd9842.jpg">
+		<WIDTH>630</WIDTH>
+		<HEIGHT>500</HEIGHT>
+	</image>
+</images>

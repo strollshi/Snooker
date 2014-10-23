@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<POSITION>
+	<whiteball color="White">
+		<positionX>100</positionX>
+		<positionY>150</positionY>
+	</whiteball>
+	<yellowball color="Yellow">
+		<positionX>155</positionX>
+		<positionY>187</positionY>
+	</yellowball>
+	<greenball color="Green">
+		<positionX>270</positionX>
+		<positionY>187</positionY>
+	</greenball>
+	<blueball color="Blue">
+		<positionX>215</positionX>			
+		<positionY>385</positionY>
+	</blueball>
+	<brownball color="Brown">
+		<positionX>215</positionX>
+		<positionY>187</positionY>
+	</brownball>
+	<pinkball color="Pink">
+		<positionX>215</positionX>
+		<positionY>560</positionY>
+	</pinkball>
+	<blackball color="Black">
+		<positionX>215</positionX>
+		<positionY>695</positionY>
+	</blackball>
+
+	<redball  color="Red">
+			<positionX>215</positionX>
+			<positionY>577</positionY>
+			<positionX>207</positionX>
+			<positionY>593</positionY>
+			<positionX>223</positionX>
+			<positionY>593</positionY>
+			<positionX>199</positionX>
+			<positionY>609</positionY>
+			<positionX>215</positionX>
+			<positionY>609</positionY>
+			<positionX>223</positionX>
+			<positionY>609</positionY>
+			<positionX>191</positionX>
+			<positionY>625</positionY>
+			<positionX>207</positionX>
+			<positionY>625</positionY>
+			<positionX>223</positionX>
+			<positionY>625</positionY>
+			<positionX>239</positionX>
+			<positionY>625</positionY>
+			<positionX>183</positionX>
+			<positionY>641</positionY>
+			<positionX>199</positionX>
+			<positionY>641</positionY>
+			<positionX>215</positionX>
+			<positionY>641</positionY>
+			<positionX>231</positionX>
+			<positionY>641</positionY>
+			<positionX>247</positionX>
+			<positionY>641</positionY>
+	</redball>
+</POSITION>
